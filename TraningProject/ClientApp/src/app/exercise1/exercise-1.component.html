@@ -1,0 +1,32 @@
+<h1 id="tableLabel">Weather forecast</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!forecasts"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="forecasts">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Temp. (C)</th>
+      <th>Temp. (F)</th>
+      <th>Summary</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let forecast of forecasts">
+      <td>{{ forecast.Date }}</td>
+      <td>{{ forecast.temperature.temperatureC }}</td>
+      <td>{{ forecast.temperature.temperatureF }}</td>
+      <td>{{ forecast.summary }}</td>
+      <td>{{ forecast.type }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="result-img-wrapper">
+   <h4>This is the result for this exercise, please fix the issues on the list above to make it look like the list in this picture...(update only in front-end)</h4>
+  <img class="result-img" src="../assets/result.PNG" />
+</div>
+

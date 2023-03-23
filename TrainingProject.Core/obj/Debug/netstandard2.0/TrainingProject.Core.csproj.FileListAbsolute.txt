@@ -1,0 +1,27 @@
+D:\Projects\Training\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.deps.json
+D:\Projects\Training\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.dll
+D:\Projects\Training\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.pdb
+D:\Projects\Training\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.AssemblyInfoInputs.cache
+D:\Projects\Training\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.AssemblyInfo.cs
+D:\Projects\Training\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Training\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.dll
+D:\Projects\Training\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.pdb
+D:\Projects\Training\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.csprojAssemblyReference.cache
+D:\Projects\Trainning Project\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.deps.json
+D:\Projects\Trainning Project\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.dll
+D:\Projects\Trainning Project\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.pdb
+D:\Projects\Trainning Project\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Trainning Project\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.AssemblyInfoInputs.cache
+D:\Projects\Trainning Project\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.AssemblyInfo.cs
+D:\Projects\Trainning Project\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.dll
+D:\Projects\Trainning Project\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.pdb
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.deps.json
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.dll
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\bin\Debug\netstandard2.0\TrainingProject.Core.pdb
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.csproj.AssemblyReference.cache
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.AssemblyInfoInputs.cache
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.AssemblyInfo.cs
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.csproj.CoreCompileInputs.cache
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.dll
+D:\app\TrainingProject\TrainingProject\TrainingProject.Core\obj\Debug\netstandard2.0\TrainingProject.Core.pdb
